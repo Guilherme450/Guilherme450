@@ -1,19 +1,38 @@
-# Hello there! My name is Guilherme Lima.
-## Welcome to my account
+## Bem-vindo ao meu portfólio!
 
-### I always had a huge passion for science and technology. Moreover, for me not only the cooperation and mutual development are crucial but also the continuos study and dedication make an import role in the life of anyone. Furthermore, because of this I'm in search of master data science and understand its powerful applications from business to machine learning and then implement it in real world. Of course that it won't be easy to master quickly, but with the community help and a hard work I'll do it and insert myself in this ascending field.
+### Este portfólio exibe projetos que desenvolvi ao longo dos meus processos de aprendizagem no campo da análise de dados e ciência de dados. Aqui, você encontrará uma seleção de trabalhos que demonstram minhas habilidades e experiências adquiridas.
+---
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGl2eTNmb2lmZmhhc21paTBma2RpMDQyeDFldGI3bHM5eHIxMTZ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif)
+## Skills
 
-## Skills:
-### Programming languages:
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-### Data Science:
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-### Control Version:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Linguagens de Programação
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" alt="Julia" width="50" height="50"/>
 
-## Contacts:
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guil02813@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_lima865?igsh=dTdjbGh1bHJrNHhl)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-lima-32b621262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+### Análise de Dados
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="50" height="50"/>
+
+### Versionamento de código
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="git" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="github" width="80" height="80"/>
+          
+          
+---
+
+
+## Contatos
+
+- **Gmail**: [guil02813@gmail.com](mailto:gui02813@gmail.com)
+- **LinkedIn**: [Guilherme Lima Nascimento](www.linkedin.com/in/guilherme-lima-nascimento-34857a302)
+---
+
+Se você tiver alguma dúvida ou quiser discutir sobre possíveis colaborações, sinta-se à vontade para entrar em contato!
+
+Obrigado por visitar meu perfil!
