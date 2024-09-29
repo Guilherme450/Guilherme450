@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I'm Guilherme Lima, a second-year Computer Science student with a passion for data and problem-solving. I have strong expertise in Python, especially in data analysis libraries like Pandas, NumPy, and Matplotlib. Currently, I'm expanding my skills by learning C, C#/.NET, Julia, and R. I'm always seeking to enhance my technical knowledge and apply it to real-world challenges.
 ---
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGl2eTNmb2lmZmhhc21paTBma2RpMDQyeDFldGI3bHM5eHIxMTZ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif)
+![image](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc2MjI0NjksIm5iZiI6MTcyNzYyMjE2OSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI5VDE1MDI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNjZTJjOGUzZjFlN2RkMzhlZjk2ZDM5ZGViMDlmNTg0NGNiNjliOGIyYmExMGUxMGE4ZTMyNTI1YmUyNGRiOTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wQ3uVmKsoO69V1j4qQ-qSFYFl0Dr_LU4cfHLVwLHkqE)
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
