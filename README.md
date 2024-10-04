@@ -26,13 +26,20 @@ If you have any question or want to discuss about possible colaborations, feel f
 <!-- Change the value after ?username= to your GitHub username. -->
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Guilherme450&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="Guilherme450" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme450&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="Guilherme450" /></p>
+<p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme450&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="Guilherme450" /></p>
 
 <br>
 <p><img loading="lazy" src="https://streak-stats.demolab.com?user=Guilherme450&count_private=true&theme=dracula&border_radius=20" alt="Guilherme450" /></p>
 -->
+
+<!--
 <div>
 <a href="https://github.com/Guilherme450">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme450&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme450&show_icons=true&theme=dracula&count_private=true"/>
 </div>
+-->
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme450&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="Guilherme450" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme450&layout=compact&show_icons=true&theme=algolia&border_radius=15"/>
+<br>
+<p><img align="center" loading="lazy" height="180em" src="https://streak-stats.demolab.com?user=Guilherme450&count_private=true&theme=algolia&border_radius=20" alt="Guilherme450" /></p>
