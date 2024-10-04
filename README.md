@@ -35,6 +35,4 @@ If you have any question or want to discuss about possible colaborations, feel f
   <a href="https://github.com/Guilherme450">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme450&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme450&show_icons=true&theme=dracula&count_private=true"/>
-  <br>
-  <img loading="lazy" src="https://streak-stats.demolab.com?user=Guilherme450&count_private=true&theme=dracula&alt="Guilherme450" />
 </div>
