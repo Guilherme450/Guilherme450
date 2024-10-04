@@ -40,5 +40,5 @@ If you have any question or want to discuss about possible colaborations, feel f
 </div>
 -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Guilherme450&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="Guilherme450" /></p>
-<p></p><img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme450&layout=compact&show_icons=true&theme=algolia&border_radius=15"/></p>
+<p></p><img align="center" height="137em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme450&layout=compact&show_icons=true&theme=algolia&border_radius=15"/></p>
 <p><img align="center" loading="lazy" src="https://streak-stats.demolab.com?user=Guilherme450&count_private=true&theme=algolia&border_radius=20" alt="Guilherme450" /></p>
