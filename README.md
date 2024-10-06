@@ -28,6 +28,6 @@ If you have any question or want to discuss about possible colaborations, feel f
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
 
-<p><img align="left" height="137em" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Guilherme450&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="Guilherme450" /></p>
-<p></p><img align="center" height="137em" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme450&layout=compact&show_icons=true&theme=algolia&border_radius=15"/></p>
-<p><img align="center" height="146em" loading="lazy" src="https://streak-stats.demolab.com?user=Guilherme450&count_private=true&theme=algolia&border_radius=20" alt="Guilherme450" /></p>
+<p><img align="left" height="137em" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Guilherme450&hide=stars&count_private=true&show_icons=true&theme=codeSTACKr&border_radius=20" alt="Guilherme450" /></p>
+<p></p><img align="center" height="137em" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme450&layout=compact&show_icons=true&theme=codeSTACKr&border_radius=15"/></p>
+<p><img align="center" height="146em" loading="lazy" src="https://streak-stats.demolab.com?user=Guilherme450&count_private=true&theme=codeSTACKr&border_radius=20" alt="Guilherme450" /></p>
