@@ -1,7 +1,3 @@
-## Wellcome to my portifolio
-
-#### 👋 Hi, I'm Guilherme Lima, a second-year Computer Science student with a passion for data and problem-solving. I have strong expertise in Python, especially in data analysis libraries like Pandas, NumPy, and Matplotlib. Currently, I'm expanding my skills by learning C, C#/.NET, Julia, R, and Go. I'm always seeking to enhance my technical knowledge and apply it to real-world challenges.
----
 ![image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <!--
 ![image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
