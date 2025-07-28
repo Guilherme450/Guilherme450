@@ -5,7 +5,7 @@
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cs,c,git,dotnet,github,r,julia,go,anaconda,arduino" />
+    <img src="https://skillicons.dev/icons?i=dart,java,py,cs,c,git,dotnet,github,r,julia,go,anaconda,arduino" />
   </a>
 </p>
 
