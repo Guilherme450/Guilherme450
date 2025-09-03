@@ -11,7 +11,9 @@
 
 ## Contact
 - **Email :** [guil02813@gmail.com](mailto:guil02813@gmail.com)
-- **Instagram :** [Instagram](https://www.instagram.com/guilhermel65?igsh=MWtudnp5OTYyNnM4bg==)
+- **Official Site :** [official site](https://guilherme450.github.io/)
+- **Linkedin :** [Linkedin](https://www.linkedin.com/in/guilherme-lima-34857a302/)
+- **Line :** [Line](https://line.me/ti/p/mARD4qBN5T)
 
 If you have any question or want to discuss about possible colaborations, feel free to contact!
 
@@ -30,3 +32,5 @@ If you have any question or want to discuss about possible colaborations, feel f
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Guilherme450&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![Snake animation](https://raw.githubusercontent.com/Guilherme450/Guilherme450/output/github-snake.svg)
