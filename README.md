@@ -33,4 +33,5 @@ If you have any question or want to discuss about possible colaborations, feel f
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Guilherme450&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![Snake animation](https://raw.githubusercontent.com/Guilherme450/Guilherme450/output/github-snake.svg)
+<!--![Snake animation](https://raw.githubusercontent.com/Guilherme450/Guilherme450/output/github-snake.svg)-->
+[![Guilherme's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guilherme450&bg_color=00000080&color=FFFFFF&line=00FFFF&point=4682B4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
