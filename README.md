@@ -20,7 +20,7 @@ In addition to data, I'm curious about robotics 🤖 and problem-solving 🧩. T
 ### DB
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@ In addition to data, I'm curious about robotics 🤖 and problem-solving 🧩. T
 ### Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,go,anaconda,arduino,postgresql" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,go,anaconda,arduino" />
   </a>
 </p>
 
