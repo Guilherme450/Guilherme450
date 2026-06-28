@@ -1,71 +1,89 @@
-![image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-### Hi there!
-
-I pursue Computer Science at IFMA and currently focus on the data domain — from engineering and analysis up through data science and AI/ML.
-I continue to study and improve day after day, looking forward to improving step by step.
-
-In addition to data, I'm curious about robotics 🤖 and problem-solving 🧩. This is merely the beginning of what is yet to come for me, and I'm thrilled to continue growing and developing throughout.
-
----
-## Tech Skills
-
-### Programing Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cs,c,r,julia" />
-  </a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Data engineering banner" width="100%" />
 </p>
 
-### DB
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql" />
-  </a>
+<h1 align="center">Guilherme Lima</h1>
+
+<p align="center">
+  <strong>Graduando em Ciência da Computação no IFMA</strong><br />
+  Engenharia de Dados • ETL • Data Warehouses • Pipelines Analíticos
 </p>
 
-### Version Control
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" />
-  </a>
-</p>
-
-### Learning
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,go,anaconda,arduino" />
-  </a>
+<p align="center">
+  <a href="https://guilherme450.github.io/">Site</a> •
+  <a href="https://www.linkedin.com/in/guilherme-lima-34857a302/">LinkedIn</a> •
+  <a href="https://line.me/ti/p/mARD4qBN5T">Line</a>
 </p>
 
 ---
 
-### Contact
-- **Official Site :** [official site](https://guilherme450.github.io/)
-- **Linkedin :** [Linkedin](https://www.linkedin.com/in/guilherme-lima-34857a302/)
-- **Line :** [Line](https://line.me/ti/p/mARD4qBN5T)
+## 👋 Sobre mim
 
-If you have any question or want to discuss about possible colaborations, feel free to contact!
+Sou Guilherme Lima, graduando em Ciência da Computação pelo IFMA e focado no desenvolvimento de projetos de **Engenharia de Dados**.
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-<!-- ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif) -->
-
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
-
-<p><img align="left" height="137em" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Guilherme450&hide=stars&count_private=true&show_icons=true&theme=codeSTACKr&border_radius=20" alt="Guilherme450" /></p>
-<p></p><img align="center" height="137em" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme450&layout=compact&show_icons=true&theme=codeSTACKr&border_radius=15"/></p>
-<!--<p><img align="center" height="146em" loading="lazy" src="https://streak-stats.demolab.com?user=Guilherme450&count_private=true&theme=codeSTACKr&border_radius=20" alt="Guilherme450" /></p>-->
+Tenho interesse em construir soluções simples, escaláveis e bem organizadas para ingestão, transformação, armazenamento e análise de dados. Minha jornada envolve estudos e projetos com **ETL**, **Data Warehouses**, processamento distribuído, orquestração de pipelines e arquiteturas modernas para dados analíticos.
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Guilherme450&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🚀 Foco em Engenharia de Dados
 
-<!--![Snake animation](https://raw.githubusercontent.com/Guilherme450/Guilherme450/output/github-snake.svg)-->
-[![Guilherme's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guilherme450&bg_color=00000080&color=FFFFFF&line=00FFFF&point=4682B4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- **ETL e ELT:** construção de pipelines para coleta, tratamento e disponibilização de dados.
+- **Data Warehouses:** modelagem e implementação de estruturas para análise e tomada de decisão.
+- **Processamento de dados:** uso de ferramentas como **Apache Spark** e **Polars**.
+- **Orquestração:** criação e monitoramento de workflows com **Prefect** e **Dagster**.
+- **Containerização:** empacotamento e execução de ambientes com **Docker**.
+- **Data Lakehouse:** armazenamento de objetos com **MinIO**, tabelas com **Apache Iceberg** e consultas analíticas com **Trino**.
 
 ---
+
+## 🧰 Stack e Ferramentas
+
+<div align="center">
+
+| Categoria | Tecnologias |
+| --- | --- |
+| Linguagens | Python, SQL, Java, C, C#, R |
+| Processamento | Apache Spark, Polars |
+| Orquestração | Prefect, Dagster |
+| Bancos de Dados | PostgreSQL, MySQL, SQLite |
+| Lakehouse & Analytics | MinIO, Apache Iceberg, Trino |
+| DevOps | Docker, Git, GitHub |
+
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,cs,c,r,postgresql,mysql,sqlite,docker,git,github" alt="Tech icons" />
+</p>
+
+---
+
+## 📬 Contato
+
+- **Official Site:** [official site](https://guilherme450.github.io/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/guilherme-lima-34857a302/)
+- **Line:** [Line](https://line.me/ti/p/mARD4qBN5T)
+
+Se quiser conversar sobre dados, projetos ou possíveis colaborações, fique à vontade para entrar em contato.
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Guilherme450&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme450&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=Guilherme450&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilherme450&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+</div>
+
+---
+
+<p align="center">
+  <em>Construindo pipelines, organizando dados e transformando informação em valor.</em>
+</p>
